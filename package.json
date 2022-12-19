@@ -1,0 +1,30 @@
+{
+  "name": "dpkakaomap",
+  "version": "1.0.0",
+  "description": "tsp with dp kakaomap",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mintseok",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mintseok/guideUS.git"
+  },
+  "keywords": [
+    "algorithm",
+    "dp"
+  ],
+  "bugs": {
+    "url": "https://github.com/mintseok/guideUS/issues"
+  },
+  "homepage": "https://github.com/mintseok/guideUS#readme"
+}
